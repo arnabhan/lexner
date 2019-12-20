@@ -1,0 +1,12 @@
+After 4 years of hard work, I've got my PhD thesis done! #perseverance_123_win
+After <TEMP_DURATION> 4 years </TEMP_DURATION> of hard work ,  I <CLITIC> 've </CLITIC> got my PhD thesis done !  <HASHTAG> #perseverance_123_win </HASHTAG>
+I've paid $12.2 on 12.12.2014 for uri, by a Domain Name Service (DNS) provider.
+I <CLITIC> 've </CLITIC> paid <MONEY_AMOUNT> $12.2 </MONEY_AMOUNT> on <DATETIMEDIGITAL> 12.12.2014 </DATETIMEDIGITAL> for uri ,  by a Domain Name Service <ABBREV> (DNS) </ABBREV> provider .
+telnet://127.0.1.1:80/ is popular telnet Internet Protocol (IP) address.
+<URI> telnet://127.0.1.1:80/ </URI> is popular telnet Internet Protocol <ABBREV> (IP) </ABBREV> address .
+Web address: https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+Web address :  <URI> https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax </URI>
+My phone's restarting every hour, twice a day- this is annoying!
+My phone <CLITIC> 's </CLITIC> restarting <TEMP_SET> every hour </TEMP_SET> ,  <TEMP_SET> twice a day </TEMP_SET> -  this is annoying !
+That's not a knowledge-based method for named entity recognition (NER).
+That <CLITIC> 's </CLITIC> not a <HYPTHENATED> knowledge-based </HYPTHENATED> method for named entity recognition <ABBREV> (NER) </ABBREV> .
